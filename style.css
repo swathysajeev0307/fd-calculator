@@ -130,3 +130,15 @@ input[type="range"]::-webkit-slider-thumb{
     cursor: pointer;
     border-radius: 50%;
 }
+
+footer {
+    font-size: 14px;
+    height: 80px;
+    background-color: #232323;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 25px;
+}
