@@ -8,7 +8,7 @@ Files Included:
 2. script.js
 3. style.css
 
-Copyright (C) 2024 SWATHYMOL SAJEEV
+Copyright (C) 2024 SWATHYMOL SAJEEV | GNU General Public License v3.0
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or(at your option) any later version.
 
