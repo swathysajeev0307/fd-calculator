@@ -1,3 +1,5 @@
+// COPYRIGHT (C) 2024 - SWATHYMOL SAJEEV | GNU General Public License v3.0 
+
 document.addEventListener("DOMContentLoaded",function(){
 
     const investmentInput = document.getElementById("investment");
